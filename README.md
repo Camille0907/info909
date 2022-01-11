@@ -1,4 +1,5 @@
 # INFO909 : Intégration continue - Déploiement continu
+_Fork Camille_
 
 ## A faire en amont du cours du 12 janvier
 
